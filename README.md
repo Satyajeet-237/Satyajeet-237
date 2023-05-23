@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyajeet-237
-- 👀 I’m interested in gaming,coding,experiencing new things
-- 🌱 I’m currently learning to develop new apps
-- 💞️ I’m looking to collaborate knowledge based on cryptography
+- 👀 I’m interested in gaming,coding and experiencing new technologies
+- 🌱 I’m currently learning Competitive Coding
+- 💞️ I’m looking to collaborate knowledge based on cryptography and quantum computing
 - 📫 How to reach me - satyajeet.s.m@gmail.com
 
 <!---
